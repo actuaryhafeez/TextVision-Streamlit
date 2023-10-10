@@ -17,8 +17,7 @@ TextVision is a dynamic web application designed to seamlessly convert visual co
 
 # App Preview
 
-![ezgif com-video-to-gif](https://github.com/actuaryhafeez/TextVision-Streamlit/assets/55107467/67beecf8-8f90-44f3-bbe0-029e1aa3a53a)
-
+![GIFMaker_me](https://github.com/actuaryhafeez/TextVision-Streamlit/assets/55107467/c9723f2e-02fa-47b6-892b-d055073e33ba)
 
 # Prerequisites
 Before running the application, make sure you have the following dependencies installed:
